@@ -80,8 +80,8 @@ reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predi
 # Summary
 
 - All the machine learning models used to perform the credit risk analysis fail in accurately determining the credit risk
-- Out of all the models, the Ensemble model has the highest accuracy. However, the high_risk prediction is only 7% which is very low
-  F-score average 97% and 14% for the high risk prediction which is again not a good one.
+- Out of all the models, the Ensemble model has the highest accuracy. However, the high_risk prediction is only 7% which is very low.
+  The F-score is also 14% for the high risk prediction which again is not a good one.
 - It would be very risky to use any of the above models to evaluate the credit risk. So, in my recomendation, none of the above models 
   should be used. 
 
